@@ -25,6 +25,12 @@ public final class Constants {
     public static final int DRIVER_CONTROLLER_PORT = 0;
     public static final int OP_CONTROLLER_PORT = 1;
   }
+  public static final class VisionContants{
+    public static final double MIDDLE_SPEAKER_TO_SPEAKER_BOT_VERT_INCH = 20.875;
+    public static final double SIDE_SPEAKER_TO_MIDDLE_SPEAKER_HORIZ_INCH = 22.25;
+    public static final double SPEAKER_EXTRUSION_INCH = 18;
+    public static final double CARPET_TO_SPEAKER_BOT_INCH = 78;
+  }
 
   public static final class SwerveConstants{
     //Drivetrain motor/encoder IDs
